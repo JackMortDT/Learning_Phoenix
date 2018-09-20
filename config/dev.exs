@@ -51,8 +51,8 @@ config :phoenix, :stacktrace_depth, 20
 # Configure your database
 config :learn_phoenix, LearnPhoenix.Repo,
   adapter: Ecto.Adapters.Postgres,
-  username: "postgres",
-  password: "postgres",
+  username: "luissas",
+  password: "avatar65",
   database: "learn_phoenix_dev",
   hostname: "localhost",
   pool_size: 10
